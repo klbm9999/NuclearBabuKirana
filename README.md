@@ -1,7 +1,7 @@
 # NuclearBabuKirana
 ## Overview
 This project is a mobile based application which has the following features : 
-+ Stores Customer information
 + Manages Inventory
++ Stores Customer information
 + Records Purchase/Sale details
 + Records Customer Grievances
